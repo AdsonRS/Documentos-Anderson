@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Document Organizer",
+  "description": "An application that analyzes photos of documents, transcribes the content into editable text boxes for each paragraph, and provides advanced analysis tools like summarization, text-to-speech, and web context searching.",
+  "requestFramePermissions": []
+}
